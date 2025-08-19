@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-18T15:00:55 IST" name="Surefire suite" finished-at="2025-08-18T15:00:55 IST" duration-ms="136">
+    <groups>
+    </groups>
+    <test started-at="2025-08-18T15:00:55 IST" name="Surefire test" finished-at="2025-08-18T15:00:55 IST" duration-ms="136">
+      <class name="com.example.testng_sample_project.CalculatorTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="setUp" finished-at="2025-08-18T15:00:55 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAdd()[pri:1, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="testAdd" finished-at="2025-08-18T15:00:55 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testSubtract()[pri:2, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="testSubtract" finished-at="2025-08-18T15:00:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+        <test-method signature="testMultiplication()[pri:3, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="testMultiplication" finished-at="2025-08-18T15:00:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method signature="testDivision()[pri:4, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="testDivision" finished-at="2025-08-18T15:00:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method signature="testModule()[pri:5, instance:com.example.testng_sample_project.CalculatorTest@769f71a9]" started-at="2025-08-18T15:00:55 IST" name="testModule" finished-at="2025-08-18T15:00:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testModule -->
+      </class> <!-- com.example.testng_sample_project.CalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
